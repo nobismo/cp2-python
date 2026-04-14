@@ -18,4 +18,4 @@ media = (cp1 + cp2 + cp3 - menor + sp1 + sp2)/4 * 0.4 + gs * 0.6
 mediaPeso = media * 0.4
 
 print("Media sem peso: ",round(media))
-print("media com peso: ",round(mediaPeso)
+print("media com peso: ",round(mediaPeso))
